@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.1",
+  "option_operagx_next_version": "1.0.0.2",
+  "option_operagx_game_name": "Little Town Tutorial1",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "1024x1024",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "7ad86cf8-92ab-4d38-a905-7244c07ec5de",
+  "option_operagx_team_name": "jenschrad studio",
+  "option_operagx_team_id": "17f1c7b5-5c48-4a46-bb76-0a0ba25e3118",
+  "option_operagx_editUrl": "https://create.gx.games/game/7ad86cf8-92ab-4d38-a905-7244c07ec5de/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+}
