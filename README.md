@@ -43,5 +43,6 @@
 
 > *Spacebar* – interact with pop-up prompts (use the spacebar on the title screen for a fun trick!)
 
-## More to come....
+## More to come...
+> Work in progress
 
