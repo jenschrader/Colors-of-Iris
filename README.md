@@ -1,3 +1,4 @@
+![3](https://user-images.githubusercontent.com/126116482/223768479-79e97f8a-2691-4b2a-ae9b-5fad0ffdac53.png)
 # Colors of Iris
  *This is a proof of concept created in the fall of 2022 for SDEV 148 - Intro to Game Development.*
  
